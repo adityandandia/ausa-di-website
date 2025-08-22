@@ -1,9 +1,9 @@
 # ausa-di-website
-AUSA-DI (AI for Universal Surgical Assistance – Diagnostics &amp; Intervention) is a healthcare + AI initiative dedicated to making diagnostics and surgical decision support accessible in rural and underserved regions. This website is the central hub of the project, showcasing our mission, progress, and research.
+AUSA-DI (AI for Universal Surgical Assistance – Diagnostics &amp; Intervention) is a healthcare + AI initiative dedicated to making diagnostics and surgical decision support accessible in rural, underserved regions and as an assistant to major healthcare companies as well as Hospitals. This website is the central hub of the project, showcasing our mission, progress, and research.
 
 🌍 Purpose
 
-Healthcare inequality remains a pressing global challenge. Advanced hospitals in cities benefit from modern AI tools, while rural communities often lack reliable diagnostics or surgical guidance. AUSA-DI bridges this gap by developing AI-powered healthcare solutions and fostering international collaboration between researchers, professionals, and institutions.
+Healthcare inequality remains a pressing global challenge. Advanced hospitals in cities even though they have AI tools, they still suffer from some amount of delay during the surgical process, while rural communities often lack reliable diagnostics or surgical guidance. AUSA-DI bridges this gap by developing AI-powered healthcare solutions and fostering international collaboration between researchers, professionals, and institutions.
 
 🖥️ Website Features
 
